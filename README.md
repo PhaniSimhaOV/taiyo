@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project is having features like TypeScript,
+TailwindCSS, React Router v6 and React Query aka TanstackQuery.
 
 ## Available Scripts
 
